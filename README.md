@@ -2,6 +2,7 @@ SBMatrix
 =======
 
 C++ Template based.
+Platform Independent.
 Dynamic Dimentional Matrix and Vector class
 
 Mat22 multiply
