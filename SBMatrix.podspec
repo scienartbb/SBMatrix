@@ -57,7 +57,7 @@ Simple, just 1 Header File.
   #  profile URL.
   #
 
-  s.author             = { "Seungcheon Baek" => "email@address.com" }
+  s.author             = { "Seungcheon Baek" => "scienartbb@gmail.com" }
   # Or just: s.author    = "Seungcheon Baek"
   # s.authors            = { "Seungcheon Baek" => "email@address.com" }
   # s.social_media_url   = "http://twitter.com/Seungcheon Baek"
