@@ -5,7 +5,7 @@ C++ Template based.
 
 Platform Independent. (iOS/Android/Mac/Win32/Linux)
 
-Dynamic Dimentional Matrix and Vector class
+N-Dim Matrix and Vector class
 
 Simple, only 1 Header File.
 
