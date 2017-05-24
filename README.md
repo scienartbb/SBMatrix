@@ -3,7 +3,7 @@ SBMatrix
 
 C++ Template based.
 
-Platform Independent.
+Platform Independent. (iOS/Android/Mac/Win32/Linux)
 
 Dynamic Dimentional Matrix and Vector class
 
