@@ -1,4 +1,6 @@
-tmatrix
+SBMatrix
 =======
 
-template based flexible matrix class
+template based.
+Dynamic Dimentional Matrix and Vector class
+
