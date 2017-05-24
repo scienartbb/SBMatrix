@@ -1,11 +1,9 @@
 SBMatrix
 =======
 
-C++ Template based.
+C++ template based N-Dim matrix and vector class
 
 Platform Independent. (iOS/Android/Mac/Win32/Linux)
-
-N-Dim Matrix and Vector class
 
 Simple, just 1 Header File.
 
