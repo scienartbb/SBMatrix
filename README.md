@@ -5,6 +5,9 @@ C++ Template based.
 Platform Independent.
 Dynamic Dimentional Matrix and Vector class
 
+Simple, only 1 Header File.
+
+
 Mat22 multiply
 
     typedef SBMatrix<float, 2, 2> Mat22;
