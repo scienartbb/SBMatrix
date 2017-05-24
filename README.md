@@ -29,7 +29,7 @@ Mat22, Vec2 multiply
     Mat22 a = {2,0,0,3};
     Vec2 b = {1,1};
     Vec2 c = a*b;
-    printf("%s - %f %f ", __FUNCTION__, c.m[0][0], c.m[1][0]);
+    printf("%s - %f %f ", __FUNCTION__, c.x, c.y);
 
 You can use it Dynamic Dimentional.
 
