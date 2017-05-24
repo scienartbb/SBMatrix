@@ -29,7 +29,7 @@ Mat22, Vec2 multiply
     Vec2 c = a*b;
     printf("%s - %f %f ", __FUNCTION__, c.x, c.y);
 
-You can use it Dynamic Dimentional.
+N-Dim.
 
     typedef SBMatrix<float, 3, 3> Mat3; // for 3x3
     typedef SBMatrix<float, 4, 4> Mat4; // for 4x4
