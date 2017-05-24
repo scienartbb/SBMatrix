@@ -2,7 +2,9 @@ SBMatrix
 =======
 
 C++ Template based.
+
 Platform Independent.
+
 Dynamic Dimentional Matrix and Vector class
 
 Simple, only 1 Header File.
