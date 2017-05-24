@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SBMatrix"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "C++ template based N-Dim matrix class"
 
   # This description is used to generate tags and improve search results.
