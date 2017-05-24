@@ -34,7 +34,7 @@ also non square!
     typedef SBMatrix<float, 4, 3> Mat43; // for 4x4
     typedef SBMatrix<float, 5, 2> Mat52; // for 5x5
 
-Matrix Inverse
+Matrix Inverse (Square Matrix)
 
     typedef SBMatrix<float, 2, 2> Mat22;
     Mat22 a = {2,0,0,3};
