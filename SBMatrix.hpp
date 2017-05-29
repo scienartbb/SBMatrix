@@ -1,5 +1,5 @@
 //
-//  Created by Seungcheon Baek (scienartbb@gmail.com)
+//  Created by SCIENART BB (scienartbb@gmail.com)
 //  Copyright CoCO SWING. All rights reserved.
 //  ( http://cocoswing.com
 //    http://github.com/scienartbb/ )
