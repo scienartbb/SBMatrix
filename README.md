@@ -1,4 +1,4 @@
-SBMatrix
+SBMatrix (https://github.com/scienartbb/SBMatrix)
 =======
 
 C++ template based N-Dim matrix and vector class
