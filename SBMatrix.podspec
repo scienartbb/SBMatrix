@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SBMatrix"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "C++ template based N-Dim matrix class"
 
   # This description is used to generate tags and improve search results.
@@ -92,7 +92,7 @@ Simple, just 1 Header File.
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "SBMatrix.hpp"
+  s.source_files  = "SBMatrix.hpp", "LICENSE", "README.md"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
